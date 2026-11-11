@@ -21,7 +21,7 @@ function App() {
                 <p className="mt-2">
                     <span className="text-orange-400">&gt;</span> welcome to my personal website/blog/whatever this is.
                     my name is Andrei but, for the most part, people know me online under the alias "andreutu" or
-                    "andreu". i am a 17 year old computer enthusiast from Romania, passionate about software, hardware,
+                    "andreu". i am a 18 year old computer enthusiast from Romania, passionate about software, hardware,
                     and everything else in between there is to know about inner computer workings. whenever i see
                     something such as a program or a concept that catches my eye, i always sit and wonder "how does that
                     work?", or "how would i implement that with my current knowledge?". i love this way of thinking, it
@@ -38,7 +38,7 @@ function App() {
                 </p>
 
                 <p className="mt-5">
-                    <span className="text-orange-400">&gt;</span> as for my other hobbies, i love playing guitarand
+                    <span className="text-orange-400">&gt;</span> as for my other hobbies, i love playing guitar and
                     listening to metal/rock music. i also recently started watching anime again, my favourite being Blue
                     Box as of yet (waiting for s2). i've also taken a liking to playing volleyball, even though i am
                     still an absolute beginner. playing videogames is one of the other things i love doing when i am not
